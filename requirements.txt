@@ -1,0 +1,10 @@
+streamlit
+# langchain_community
+# langchain_core
+# langchain_huggingface
+# langchain_test_splitters
+# sentence-transformers
+# faiss-cpu
+# ipykernel
+# pypdf
+# bs4
